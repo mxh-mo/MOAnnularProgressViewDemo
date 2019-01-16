@@ -10,6 +10,7 @@ self.progressView.alpha = 0.5;
   make.edges.equalTo(self).with.insets(UIEdgeInsetsZero);
 }];
 
+// 设置frame后 在获取到进度的地方设置
 self.progressView.progress = 0.5;
 
 ```
