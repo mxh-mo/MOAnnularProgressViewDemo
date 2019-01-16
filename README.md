@@ -1,6 +1,6 @@
 # MOAnnularProgressViewDemo
 ```Objective-C
-self.progressView = [[WWTKCycleProgressView alloc] init];
+self.progressView = [[MoAnnularProgressView alloc] init];
 self.progressView.backgroundColor = [UIColor colorWithRGB:0x97FB90];
 self.progressView.frontColor = [UIColor colorWithRGB:0x0FC5B1];
 self.progressView.lineWidth = 4.0f;
