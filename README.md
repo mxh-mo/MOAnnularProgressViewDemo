@@ -1,4 +1,6 @@
 # MOAnnularProgressViewDemo
+ ![image](https://github.com/moxiaohui/MOAnnularProgressViewDemo/blob/master/progress_circle.png)
+
 ```Objective-C
 self.progressView = [[MoAnnularProgressView alloc] init];
 self.progressView.backgroundColor = [UIColor colorWithRGB:0x97FB90];
